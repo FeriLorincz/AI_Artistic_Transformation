@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Images (opțional, dacă ai multe imagini)
+# Comentează liniile următoare dacă vrei să incluzi toate imaginile
+# /dataset/drawings/*.jpg
+# /dataset/drawings/*.png
+# /dataset/photos/*.jpg
+# /dataset/photos/*.png
